@@ -19,7 +19,7 @@
 </div>
 <br><br>
 
-<img align="left" height="500" src="https://i.gifer.com/XOsX.gif" />
+<img align="left" height="500" src="https://i.gifer.com/EdfH.gif" />
 <br><br>
 
 <h4 align="center">When this place gets over a hundred profile views, I'm going to go learn linux.</h4>
