@@ -19,7 +19,7 @@
 </div>
 <br><br>
 
-<img align="left" height="380" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZiZnp3OHV0dGF4cTU3cmVobHMxbDRmeXp6MW9nbWdqaWh0aGloZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3ZrVw8NkxIly/giphy.gif" style="padding: 20" />
+<img align="left" height="380" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZiZnp3OHV0dGF4cTU3cmVobHMxbDRmeXp6MW9nbWdqaWh0aGloZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3ZrVw8NkxIly/giphy.gif" style="padding: 20px;" />
 <br><br>
 
 <h4 align="center">When this place gets over a hundred profile views, I'm going to go learn linux.</h4>
@@ -46,7 +46,7 @@
 <br>
 
 <div align="center">
-<h3 align="center" style="margin-top: 50">That's all for now, thanks for your attention ;P</h3>
+<h3 align="center" style="margin-top: 20px;">That's all for now, thanks for your attention ;P</h3>
 </div>
 <br>
 <img align="right" height="500" width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVqNXFyYW8xYjF4aGo5OWtqMjMwN2RhbmxqdXFxcTM4M3FwNjl0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HRlqQv8KiAlgc/giphy.gif" />
