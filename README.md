@@ -19,14 +19,14 @@
 </div>
 <br><br>
 
-<img align="left" height="500" src="https://i.gifer.com/EdfH.gif" />
+<img align="left" height="500" src="https://i.gifer.com/EdfH.gif" alt="funny gif" />
 <br><br>
 
 <h4 align="center">When this place gets over a hundred profile views, I'm going to go learn linux.</h4>
 <br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Biba4444/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Biba4444/count.svg?" alt="profile counter" />
 </div>
 <br>
 
