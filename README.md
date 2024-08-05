@@ -45,7 +45,7 @@
 </div>
 </div>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <div align="center">
 <h3 align="center">That's all for now, thanks for your attention ;P</h3>
