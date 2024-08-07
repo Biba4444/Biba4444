@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Biba4444&hide_title=true&theme=dark" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=Biba4444&hide_title=true&theme=github_dark" alt="stats graph" />
   <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Biba4444&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="170" alt="languages graph" /> <br>
   <br><br>
