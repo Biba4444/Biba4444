@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Biba4444&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Biba4444&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="170" alt="stats graph" />
   <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Biba4444&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="170" alt="languages graph" /> <br>
   <br><br>
@@ -19,7 +19,7 @@
 </div>
 <br><br>
 
-<img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZiZnp3OHV0dGF4cTU3cmVobHMxbDRmeXp6MW9nbWdqaWh0aGloZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3ZrVw8NkxIly/giphy.gif" />
+<img align="left" height="310" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZiZnp3OHV0dGF4cTU3cmVobHMxbDRmeXp6MW9nbWdqaWh0aGloZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3ZrVw8NkxIly/giphy.gif" />
 <br><br>
 
 <div>
@@ -51,4 +51,4 @@
 <h3 align="center">That's all for now, thanks for your attention ;P</h3>
 </div>
 <br>
-<img align="right" height="300" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVqNXFyYW8xYjF4aGo5OWtqMjMwN2RhbmxqdXFxcTM4M3FwNjl0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HRlqQv8KiAlgc/giphy.gif" />
+<img align="right" height="350" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVqNXFyYW8xYjF4aGo5OWtqMjMwN2RhbmxqdXFxcTM4M3FwNjl0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HRlqQv8KiAlgc/giphy.gif" />
