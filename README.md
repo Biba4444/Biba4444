@@ -13,7 +13,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Biba4444&hide_title=true&theme=github_dark" alt="stats graph" />
   <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Biba4444&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="170" alt="languages graph" /> <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Biba4444&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="170" alt="languages graph" /> <br>
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biba4444&radius=16&theme=github-dark&area=true&order=5&hide_title=true" height="230" alt="activity-graph graph"  />
 </div>
